@@ -1,0 +1,8 @@
+.topContainer {
+  background: url(../../assets/new_wall_dp.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.3);
+}
